@@ -13,5 +13,6 @@ A simple model deployment with flask
 - request.py => source code to make request on the API
 
 <h4>Information</h4>
+
 - The dataset is a movie review dataset consist of 6000 review with 2 labels (positive and negative).
 - The model used is simple BiLSTM and trained with only 2 epochs
