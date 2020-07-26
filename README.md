@@ -2,9 +2,9 @@
 A simple model deployment with flask
 
 <h4>Directory :</h4>
-<b>Data (Contains dataset) </b> <br/>
-<b>Model (Contains classification model)<b/> <br/>/   
-<b>Src (Contains source code)<b/> <br/>
+<b>1. Data (Contains dataset) </b> <br/><br/>
+<b>2. Model (Contains classification model)<b/> <br/>/<br/>   
+<b>3. Src (Contains source code)</b> <br/>
 - templates (html code)
 - Sentiment Analysis using BiLSTM.ipynb => source code for classification on jupyter notebook
 - Model.py => source code contains functions for preprocessing
